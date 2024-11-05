@@ -3,7 +3,7 @@
 Library of useful templates / configs
 
 
-## anaconda
+## conda
 
 yaml anaconda environments
 
@@ -46,6 +46,8 @@ git stuff
 
 ## latex
 
+LaTeX templates for reports
+
 - APS format from [RevTeX 4.2](https://journals.aps.org/revtex)
     - unmodified `aps`
     - a modified `aps-modified` with packages I use often
@@ -58,7 +60,7 @@ Presentation templates for [marp](https://marp.app/)
 
 ## sublime text
 
-[sublime text](https://www.sublimetext.com/) preferences
+[Sublime text](https://www.sublimetext.com/) preferences
 
 
 
