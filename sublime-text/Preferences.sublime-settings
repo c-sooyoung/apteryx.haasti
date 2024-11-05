@@ -1,22 +1,31 @@
 {
-
-    "theme": "Adaptive.sublime-theme",
+    "theme": "auto",
     "color_scheme": "Sixteen.sublime-color-scheme",
 
-    "font_face": "cascadia mono",
-    "font_size": 16,
+    "font_face": "Cascadia Mono NF",
+    "font_size": 11,
     "font_options": ["ss01"],
-
-    "translate_tabs_to_spaces": true,
 
     "save_on_focus_lost": true,
 
-    "ignored_packages":
-    [
-        "Vintage",
-    ],
+    "translate_tabs_to_spaces": true,
 
-    "index_files": false,
-    
+    // "margin": 10,
+
+    "caret_style": "solid",
+    "caret_extra_top": 0,
+    "caret_extra_bottom": 0,
+    // "caret_extra_width": 0,
+
+    "block_caret": true,
+
     "draw_indent_guides": false,
+
+    "line_padding_top": 1,
+    "line_padding_bottom": 1,
+
+    "themed_title_bar": false,
+
+    "gtk_client_side_window_decorations": false,
+
 }
