@@ -54,3 +54,11 @@ git stuff
 ## marp
 
 Presentation templates for [marp](https://marp.app/)
+
+
+## sublime text
+
+[sublime text](https://www.sublimetext.com/) preferences
+
+
+

@@ -1,0 +1,22 @@
+{
+
+    "theme": "Adaptive.sublime-theme",
+    "color_scheme": "Sixteen.sublime-color-scheme",
+
+    "font_face": "cascadia mono",
+    "font_size": 16,
+    "font_options": ["ss01"],
+
+    "translate_tabs_to_spaces": true,
+
+    "save_on_focus_lost": true,
+
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+
+    "index_files": false,
+    
+    "draw_indent_guides": false,
+}
