@@ -58,9 +58,20 @@ LaTeX templates for reports
 Presentation templates for [marp](https://marp.app/)
 
 
+## misc. files
+
+- `rabbit.png` The White Rabbit from *Alice’s Adventures in Wonderland*, illustrated by John Tenniel. [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Alice-white-rabbit.jpg.)
+
+- `alice.txt` Chapter 1 of *Alice’s Adventures in Wonderland*. [Wikisource](https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_(1866)/Chapter_1)
+
+
 ## sublime text
 
+<<<<<<< Updated upstream
 [Sublime text](https://www.sublimetext.com/) preferences
 
 
 
+=======
+[sublime text](https://www.sublimetext.com/) preferences
+>>>>>>> Stashed changes
