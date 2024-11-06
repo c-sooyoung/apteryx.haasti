@@ -20,8 +20,6 @@ Frequently used styles from the [CSL styles repository](https://github.com/citat
 
 ## fonts 
 
-Individual font files last updated: 2024-11-04
-
 - Cascadia Code [2404.23](https://github.com/microsoft/cascadia-code/releases/tag/v2404.23)
 
 - Computer Modern [0.7.0](https://sourceforge.net/projects/cm-unicode/)
@@ -67,11 +65,16 @@ Presentation templates for [marp](https://marp.app/)
 
 ## sublime text
 
-<<<<<<< Updated upstream
 [Sublime text](https://www.sublimetext.com/) preferences
 
 
+## zotero
 
-=======
-[sublime text](https://www.sublimetext.com/) preferences
->>>>>>> Stashed changes
+Settings / plugins for [zotero](https://www.zotero.org/)
+
+- Better BibTeX [6.7.250](https://retorque.re/zotero-better-bibtex/)
+
+
+
+
+
